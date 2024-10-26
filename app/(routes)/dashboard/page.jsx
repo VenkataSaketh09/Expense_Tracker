@@ -55,7 +55,7 @@ function Dashboard() {
         <h2 className='font-bold text-3xl'>Hi, {user?.fullName} 😎</h2>
       </div>
       <p className='text-gray-500'>
-        Here's what's happening with your money, Let's Manage your Expense
+        Here&apos;s what&apos;s happening with your money, Let&apos;s Manage your Expense
       </p>
       
       <CardsInfo budgetList={budgetList} />
